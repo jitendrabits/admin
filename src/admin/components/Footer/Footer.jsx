@@ -6,7 +6,7 @@ const Footer = () => {
         <>
             <footer className="footer footer-center p-4 bg-base-300 text-base-content">
                 <aside>
-                    <p className='font-bold italic'>Copyright © {new Date().getFullYear()} - All right reserved by Fevoff PVT. LTD.</p>
+                    <p className='font-bold italic'>Copyright © {new Date().getFullYear()} - All right reserved by BookStore PVT. LTD.</p>
                 </aside>
             </footer>
         </>

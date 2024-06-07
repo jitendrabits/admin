@@ -71,7 +71,7 @@ const Login = () => {
                             }
 
                             <div className="mb-2 flex justify-center text-5xl font-semibold italic mt-7 md:mt-2">
-                                Fevoff
+                                BookStore
                             </div>
                             <h2 className="text-center text-3xl font-bold leading-tight  text-gray-500 italic mt-7 md:mt-3">
                                 Admin Login

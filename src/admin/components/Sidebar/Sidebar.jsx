@@ -31,7 +31,7 @@ const Sidebar = ({ sidemenu }) => {
     return (
         <aside className={`flex h-screen w-64 flex-col overflow-y-auto border-r bg-black pt-4 fixed admin-sidebar ${opensideMenu}`}>
             <a className='px-5'>
-                <h4 className='text-white text-3xl font-bold'>Fevoff</h4>
+                <h4 className='text-white text-3xl font-bold'>BookStore</h4>
             </a>
             <label className=" text-xs font-semibold uppercase text-white mt-2 pl-4">Admin Dashboard</label>
             <div className="mt-6 flex flex-1 flex-col justify-between ">
